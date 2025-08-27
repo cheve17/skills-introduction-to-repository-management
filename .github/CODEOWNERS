@@ -1,0 +1,8 @@
+# Todos los archivos requieren revisión de Cheve
+*       @cheve17
+
+# Archivos de documentación
+docs/** @cheve17
+
+# Archivos Markdown
+*.md    @cheve17
